@@ -28,5 +28,4 @@ FiveM server - The Roleplayers
 [twitter]: https://twitter.com/JajarGaming
 [twitch]: https://twitch.tv/jajargaming
 [youtube]: https://www.youtube.com/channel/UCzA5rjqdlBDMKKsI9rWF-4g
-[discord]: https://discord.gg/H8Puv4h4
 [5mdiscord]: https://discord.gg/HXFxst3FKE
