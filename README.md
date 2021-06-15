@@ -25,4 +25,4 @@
 
 [twitter]: https://twitter.com/JajarGaming
 [twitch]: https://twitch.tv/JajarGaming
-[discord]: https://discord.gg/uBPsFdepws)
+[discord]: https://discord.gg/uBPsFdepws
