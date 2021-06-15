@@ -1,4 +1,4 @@
-### 🐼 [JajarGaming][https://github.com/JajarGaming] 🐼
+### 🐼 [JajarGaming][discord] 🐼
 
 ### Find Me
 [<img align="left" style="fill: #7289DA; color: #7289DA;" alt="Jajar - Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
