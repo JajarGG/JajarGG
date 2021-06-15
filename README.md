@@ -8,7 +8,7 @@
 <br />
 <br />
 
-[![Discord](comingsoon.png)](https://discord.gg/uBPsFdepws)
+[![Discord](https://i.imgur.com/TGrw383.png)](https://discord.gg/uBPsFdepws)
 
 <br />
 
