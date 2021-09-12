@@ -8,10 +8,6 @@
 <br />
 <br />
 
-[![Discord](https://i.imgur.com/TGrw383.png)](https://discord.gg/uBPsFdepws)
-
-<br />
-
 ----
 
 ### GitHub Statistics
