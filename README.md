@@ -1,9 +1,8 @@
-<p>
-<!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jajargaming&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=react" />
-<!-- Most Used Languages -->  
-<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajargaming&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&&langs_count=8&theme=react"/>  
-</p>
-<!-- Socials -->
-Discord: Jajar#2637
-</p>
+<a href="https://discord.com/users/413676060614459392" target="_blank">
+	<img width="50%" align="right" alt="My Discord Status" src="https://lanyard.cnrad.dev/api/413676060614459392?bg=1f1f1f&borderRadius=5px">
+</a>
+<a href="https://wakatime.com/@Jajar" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jajar&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
+
+### I code for fivem
