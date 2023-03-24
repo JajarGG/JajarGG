@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 ## Some info about me
-* Most of my projects are private, but I have a [discord server](https://discord.gg/6uMnJWXezX) where I show off my progress and work.
+* Most of my projects are private, but I have a [discord server](https://discord.gg/6uMnJWXezX) where I show off my project progression. Trying to build a community around what I like to do.
 * I mainly work on the [CitizenFX](https://github.com/citizenfx) framework. That includes **RedM** and **FiveM**
 * You can contact me on discord: Jajar#2637
 
