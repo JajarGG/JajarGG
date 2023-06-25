@@ -2,7 +2,7 @@ Hello 👀
 
 Currently working on a [project](https://discord.gg/6uMnJWXezX) and trying to build a community around what I like to do.
 
-*You can contact me on discord: Jajar#2637*
+*You can contact me on discord: jajar_*
 
 ---
 
