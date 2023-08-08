@@ -1,6 +1,6 @@
 Hello 👀
 
-Currently working on a [project](https://discord.gg/6uMnJWXezX) and trying to build a community around what I like to do.
+Currently creating a GTA V [FiveM](https://fivem.net/) roleplay project called [Osaya](https://discord.gg/6uMnJWXezX)
 
 *You can contact me on discord: jajar_*
 
