@@ -2,9 +2,7 @@
 <p>
 Currently creating a GTA V FiveM roleplay project called Osaya https://discord.gg/6UxP8xDcNh - Most private commits go to that
 
-I'm working on a website: https://jajar.vercel.app/
-
-*You can contact me on discord: jajar_*
+*You can contact me on Discord: jajar_*
 </p>
 
 ### Skills:
