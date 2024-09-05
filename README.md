@@ -1,6 +1,6 @@
 ## Hello 👀
 <p>
-Currently creating a GTA V FiveM roleplay project called Osaya https://discord.gg/6UxP8xDcNh - Most private commits go to that
+Project Director @ Osaya Studios. Working on the GTA V modding platform FiveM
 
 *You can contact me on Discord: jajar_*
 </p>
