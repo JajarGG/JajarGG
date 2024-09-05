@@ -1,12 +1,14 @@
 ## Hello 👀
 <p>
-Project Director @ Osaya Studios. Working on the GTA V modding platform FiveM
+Project Director @ Osaya Studios. Working on the GTA V modding platform FiveM.
+
+My job involves more than just coding. If there are long gaps with no commits, I might be working on internal projects, doing design work, managing the team, or handling other tasks for Osaya.
 
 *You can contact me on Discord: jajar_*
 </p>
 
 ### Skills:
-<p>Lua, JavaScript, Typescript, React, Preact, SocketIO, NodeJS and probably some other stuff no one cares about lol</p>
+<p>Lua, JavaScript, NodeJS, Typescript, React, Preact, SocketIO</p>
 
 ### Check my stats
 <p>
