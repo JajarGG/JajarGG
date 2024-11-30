@@ -1,7 +1,7 @@
 # Hello 👀
 Project Director @ [Osaya Studios](https://www.linkedin.com/company/103243411). We are working on an undisclosed project - NDA 👀.
 
-My job involves more than just coding, I am the director. If there are long gaps with no commits, I might work on internal projects, design work, manage the team, or handle other tasks.
+My job involves more than just coding, I am the director. **If there are long gaps with no commits, I might be working on internal projects, designing, managing the team, or handling other tasks.**
 
 *You can contact me on Discord: jajar_*
 
