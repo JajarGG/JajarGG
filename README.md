@@ -1,7 +1,6 @@
 # Hello 👀
-Project Director @ [Osaya Studios](https://www.linkedin.com/company/103243411). We are working on an undisclosed project - NDA 👀.
-
-My job involves more than just coding, I am the director. **If there are long gaps with no commits, I might be working on internal projects, designing, managing the team, or handling other tasks.**
+Former GTA V modder, worked on FiveM. Now I work on random game dev stuff:
+https://discord.gg/SKdkk7rR3B
 
 *You can contact me on Discord: jajar_*
 
