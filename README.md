@@ -16,3 +16,4 @@ React, SocketIO, NodeJS
 
 ![](https://komarev.com/ghpvc/?username=JajarGaming&color=2DB36E&style=flat&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/bb777587-96d8-496e-8fbc-e463484da02a.svg)](https://wakatime.com/@bb777587-96d8-496e-8fbc-e463484da02a)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
